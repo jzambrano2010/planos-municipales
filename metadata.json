@@ -1,0 +1,8 @@
+{
+  "name": "Remix Visor y Analizador de Planos Municipales",
+  "description": "Aplicación interactiva para análisis técnico, cálculo de superficies y exploración detallada de planos de arquitectura y estructura aprobados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
